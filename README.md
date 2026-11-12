@@ -1,4 +1,4 @@
-# intakra-com
+# Intakra
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,113 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-intakra-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://intakra.com/
+Intakra provides B2B buying signals and account monitoring, surfacing changes that matter to sales and marketing teams. It offers a platform that tracks company activities, funding events, and other triggers, helping users prioritize accounts and improve outreach effectiveness.
+
+**Areas:** B2B · Sales · Marketing · AccountMonitoring · BuyingSignals
+
+## Intakra on APIs.io
+
+Everything profiled for Intakra is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/intakra-com/](https://apis.io/providers/intakra-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Intakra Accounts API](https://apis.io/apis/intakra-com/intakra-com-accounts-api/) — The Accounts API from Intakra — 1 operation(s) for accounts.
+- [Intakra Brief API](https://apis.io/apis/intakra-com/intakra-com-brief-api/) — The Brief API from Intakra — 1 operation(s) for brief.
+- [Intakra Opportunities API](https://apis.io/apis/intakra-com/intakra-com-opportunities-api/) — The Opportunities API from Intakra — 1 operation(s) for opportunities.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Intakra Agentic Access](https://apis.io/agentic-access/intakra-com/intakra-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Intakra API Rules](https://apis.io/rules/intakra-com/intakra-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Intakra Authentication](https://apis.io/security/intakra-com/intakra-com-authentication/)
+- [Intakra Domain Security](https://apis.io/security/intakra-com/intakra-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Intakra Plans Pricing](https://apis.io/plans/intakra-com/intakra-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://intakra.com/)
+- [Documentation](https://intakra.com/guides)
+- [Pricing](https://intakra.com/pricing)
+- [Support](https://intakra.com/support)
+- [Trust centre](https://intakra.com/trust)
+- [Terms of service](https://intakra.com/terms)
+- [Privacy policy](https://intakra.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 50.2** — developing · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 48.4 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 81.1 |
+
+**Agent readiness 48.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/intakra-com/](https://apis.io/providers/intakra-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Intakra: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/intakra-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
